@@ -1,0 +1,419 @@
+[   {
+        "name":"hallway",
+
+        "devices":[
+            {
+                "name":"light_0_0",
+                "functionalities":[
+                    {
+                        "name":"open",
+                        "desciption":"open the light"
+                    },
+                    {
+                        "name":"close",
+                        "desciption":"close the light"
+                    }
+                ]
+            },
+            {
+                "name":"motion_sensor_0_0",
+                "functionalities":[
+                    {
+                        "name":"detected",
+                        "desciption":"motion detected"
+                    },
+                    {
+                        "name":"left",
+                        "desciption":"motion stopped"
+                    }
+                ]
+            },
+            {
+                "name":"light_0_1",
+                "functionalities":[
+                    {
+                        "name":"open",
+                        "desciption":"open the light"
+                    },
+                    {
+                        "name":"close",
+                        "desciption":"close the light"
+                    }
+                ]
+            },
+            {
+                "name":"motion_sensor_0_1",
+                "functionalities":[
+                    {
+                        "name":"detected",
+                        "desciption":"motion detected"
+                    },
+                    {
+                        "name":"left",
+                        "desciption":"motion stopped"
+                    }
+                ]
+            },
+            {
+                "name":"light_0_2",
+                "functionalities":[
+                    {
+                        "name":"open",
+                        "desciption":"open the light"
+                    },
+                    {
+                        "name":"close",
+                        "desciption":"close the light"
+                    }
+                ]
+            },
+            {
+                "name":"motion_sensor_0_2",
+                "functionalities":[
+                    {
+                        "name":"detected",
+                        "desciption":"motion detected"
+                    },
+                    {
+                        "name":"left",
+                        "desciption":"motion stopped"
+                    }
+                ]
+            },
+            {
+                "name":"light_0_3",
+                "functionalities":[
+                    {
+                        "name":"open",
+                        "desciption":"open the light"
+                    },
+                    {
+                        "name":"close",
+                        "desciption":"close the light"
+                    }
+                ]
+            },
+            {
+                "name":"motion_sensor_0_3",
+                "functionalities":[
+                    {
+                        "name":"detected",
+                        "desciption":"motion detected"
+                    },
+                    {
+                        "name":"left",
+                        "desciption":"motion stopped"
+                    }
+                ]
+            },
+            {
+                "name":"front_door",
+                "functionalities":[
+                    {
+                        "name":"open",
+                        "desciption":"open the door"
+                    },
+                    {
+                        "name":"close",
+                        "desciption":"close the door"
+                    }
+                ]
+            },
+            {
+                "name":"back_door",
+                "functionalities":[
+                    {
+                        "name":"open",
+                        "desciption":"open the door"
+                    },
+                    {
+                        "name":"close",
+                        "desciption":"close the door"
+                    }
+                ]
+            }
+        ]
+
+    },
+    {
+        "name":"living_room",
+        
+        "devices":[
+            {
+                "name":"tv_1",
+                "functionalities":[
+                    {
+                        "name":"open",
+                        "desciption":"open the tv"
+                    },
+                    {
+                        "name":"close",
+                        "desciption":"close the tv"
+                    },
+                    {
+                        "name":"Netflix",
+                        "desciption":"open Netflix"
+                    },
+                    {
+                        "name":"Youtube",
+                        "desciption":"open Youtube"
+                    }
+                ]   
+            },
+            {
+                "name":"light_1",
+                "functionalities":[
+                    {
+                        "name":"open",
+                        "desciption":"open the light"
+                    },
+                    {
+                        "name":"close",
+                        "desciption":"close the light"
+                    }
+                ]     
+            },
+            {
+                "name":"window_1",
+                "functionalities":[
+                    {
+                        "name":"open",
+                        "desciption":"open the window"
+                    },
+                    {
+                        "name":"close",
+                        "desciption":"close the window"
+                    }
+                ]
+            },
+            {
+                "name": "curtain_1",
+                "functionalities":[
+                    {
+                        "name":"open",
+                        "desciption":"open the curtain"
+                    },
+                    {
+                        "name":"close",
+                        "desciption":"close the curtain"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name":"bedroom",
+
+        "devices":[
+            {
+                "name:":"tv_2",
+                "functionalities":[
+                    {
+                        "name":"open",
+                        "desciption":"open the tv"
+                    },
+                    {
+                        "name":"close",
+                        "desciption":"close the tv"
+                    },
+                    {
+                        "name":"Netflix",
+                        "desciption":"open Netflix"
+                    },
+                    {
+                        "name":"Youtube",
+                        "desciption":"open Youtube"
+                    }
+                ]
+            },
+            {
+                "name":"light_2",
+                "functionalities":[
+                    {
+                        "name":"open",
+                        "desciption":"open the light"
+                    },
+                    {
+                        "name":"close",
+                        "desciption":"close the light"
+                    }
+                ]
+            },
+            {
+                "name":"window_2",
+                "functionalities":[
+                    {
+                        "name":"open",
+                        "desciption":"open the window"
+                    },
+                    {
+                        "name":"close",
+                        "desciption":"close the window"
+                    }
+                ]
+            },
+            {
+                "name":"curtain_2",
+                "functionalities":[
+                    {
+                        "name":"open",
+                        "desciption":"open the curtain"
+                    },
+                    {
+                        "name":"close",
+                        "desciption":"close the curtain"
+                    }
+                ]
+            },
+            {
+                "name":"temperature_control_2",
+                "functionalities":[
+                    {
+                        "name":"open",
+                        "desciption":"open the air conditioner"
+                    },
+                    {
+                        "name":"close",
+                        "desciption":"close the air conditioner"
+                    },
+                    {
+                        "name":"higher",
+                        "desciption":"higher the temperature"
+                    },
+                    {
+                        "name":"lower",
+                        "desciption":"lower the temperature"
+                    }
+                ]
+            }
+        ]   
+    },
+    {
+        "name":"kitchen",
+
+        "devices":[
+            {
+                "name":"light_3",
+                "functionalities":[
+                    {
+                        "name":"open",
+                        "desciption":"open the light"
+                    },
+                    {
+                        "name":"close",
+                        "desciption":"close the light"
+                    }
+                ]
+            },
+            {
+                "name":"window_3",
+                "functionalities":[
+                    {
+                        "name":"open",
+                        "desciption":"open the window"
+                    },
+                    {
+                        "name":"close",
+                        "desciption":"close the window"
+                    }
+                ]
+            },
+            {
+                "name":"magnetic_induction_cooktop_1",
+                "functionalities":[
+                    {
+                        "name":"open",
+                        "desciption":"open the magnetic induction cooktop"
+                    },
+                    {
+                        "name":"close",
+                        "desciption":"close the magnetic induction cooktop"
+                    }
+                ]
+            },
+            {
+                "name":"kitchen_hood_1",
+                "functionalities":[
+                    {
+                        "name":"open",
+                        "desciption":"open the kitchen hood"
+                    },
+                    {
+                        "name":"close",
+                        "desciption":"close the kitchen hood"
+                    },
+                    {
+                        "name":"light",
+                        "desciption":"open the light of kitchen hood"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name":"study_room",
+
+        "devices":[
+            {
+                "name":"light_4",
+                "functionalities":[
+                    {
+                        "name":"open",
+                        "desciption":"open the light"
+                    },
+                    {
+                        "name":"close",
+                        "desciption":"close the light"
+                    }
+                ]
+            },
+            {
+                "name":"window_4",
+                "functionalities":[
+                    {
+                        "name":"open",
+                        "desciption":"open the window"
+                    },
+                    {
+                        "name":"close",
+                        "desciption":"close the window"
+                    }
+                ]
+            },
+            {
+                "name":"curtain_4",
+                "functionalities":[
+                    {
+                        "name":"open",
+                        "desciption":"open the curtain"
+                    },
+                    {
+                        "name":"close",
+                        "desciption":"close the curtain"
+                    }
+                ]
+            },
+            {
+                "name":"temperature_control_4",
+                "functionalities":[
+                    {
+                        "name":"open",
+                        "desciption":"open the air conditioner"
+                    },
+                    {
+                        "name":"close",
+                        "desciption":"close the air conditioner"
+                    },
+                    {
+                        "name":"higher",
+                        "desciption":"higher the temperature"
+                    },
+                    {
+                        "name":"lower",
+                        "desciption":"lower the temperature"
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,49 @@
+[
+    {
+      "name": "front_door",
+      "connected_to": [
+        { "room": "hallway", "distance": "0 m" }
+      ]
+    },
+    {
+      "name": "living_room",
+      "connected_to": [
+        { "room": "hallway", "distance": "1 m" }
+      ]
+    },
+    {
+      "name": "hallway",
+      "connected_to": [
+        { "room": "living_room", "distance": "1 m" },
+        { "room": "kitchen", "distance": "2 m" },
+        { "room": "bedroom", "distance": "6 m" },
+        { "room": "study_room", "distance": "4 m" },
+        { "room": "front_door", "distance": "0 m" },
+        { "room": "back_door", "distance": "10 m" }
+      ]
+    },
+    {
+      "name": "kitchen",
+      "connected_to": [
+        { "room": "hallway", "distance": "2 m" }
+      ]
+    },
+    {
+      "name": "bedroom",
+      "connected_to": [
+        { "room": "hallway", "distance": "6 m" }
+      ]
+    },
+    {
+      "name": "study_room",
+      "connected_to": [
+        { "room": "hallway", "distance": "4 m" }
+      ]
+    },
+    {
+      "name": "back_door",
+      "connected_to": [
+        { "room": "hallway", "distance": "10 m" }
+      ]
+    }
+  ]
