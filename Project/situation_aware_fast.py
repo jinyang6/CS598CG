@@ -5,7 +5,7 @@ import time
 
 
 def create_gpt_client():
-    client = OpenAI(api_key = "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")
+    client = OpenAI(api_key = "*************************")
     return client
 
 
